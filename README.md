@@ -1,9 +1,10 @@
 ### Hi there 👋
 I am a sophomore in Mechanical Engineering at NIT, Durgapur and skilled in website backend development in Django.
-I currently work as a backend development intern at Creesync Software technologies. I am currently active in deep learning and related fields.
-
+Working at Triunits Exchange(India's Leading Crypto Exchange). I am currently active in deep learning and related fields.
+### I'm Working as a
+Blockchin developer, App Developer and Web Developer.
 ### 🌱 I’m currently learning 
-Deep Learning , flutter and React.
+Deep Learning 
 ### 👯 I’m looking to collaborate on
    Open Source Projects.
 ### 🤔 I’m looking for help with
