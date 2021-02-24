@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a sophomore in Mechanical Engineering at NIT, Durgapur and skilled in website backend development in Django,Node js , GO.
-Working at Triunits Exchange(India's Leading Crypto Exchange). I am currently active in deep learning and related fields.
+Working at Triunits Exchange(India's Leading Crypto Exchange). I am currently active in blockchain development.
 ### I'm Working as a
 Blockchin developer, App Developer and Web Developer.
 ### 🌱 I’m currently learning 
