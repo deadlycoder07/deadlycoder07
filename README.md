@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am a Third year student in Mechanical Engineering at NIT, Durgapur and skilled in website backend development in Django,Node js , GO.
 Working at Triunits Exchange. I am currently active in blockchain development.
-## I'm a senior  member of
-  GNU Linux User's Group NIT Durgapur and contributing on open source projects.
+## I'm tech head at
+  GNU Linux User's Group NIT Durgapur and contributing and maintaining open source projects.
 ### I'm Working as a
 Blockchin developer, App Developer and Web Developer.
 <h3 align="center">Languages and Tools:</h3>
